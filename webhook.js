@@ -1,1 +1,3 @@
-alert(document.getElementById('flag').innerText)
+console.log(document.cookie);
+console.log(localStorage);
+console.log(sessionStorage);
