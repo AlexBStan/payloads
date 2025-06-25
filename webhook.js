@@ -1,1 +1,1 @@
-fetch('https://caqmfaoq71omuesxwf6soprprgx7l19q.oastify.com)
+fetch('https://caqmfaoq71omuesxwf6soprprgx7l19q.oastify.com')  
