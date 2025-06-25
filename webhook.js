@@ -1,8 +1,3 @@
-const allText = [...document.querySelectorAll('*')]
-  .map(el => el.textContent.trim())
-  .filter(Boolean)
-  .join('\n');
-
-alert(allText);
+new Image().src = "https://b0cl59epx0elkdiwmewreohohfn6b3zs.oastify.com"
 
 
